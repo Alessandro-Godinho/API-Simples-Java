@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://godinho:godinho@desafiocalcme.gdg2bh1.mongodb.net/?retryWrites=true&w=majority
+      database: desafiocalcme
